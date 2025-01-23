@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: nginx-example1
-      image: nginx:1.24
+      image: nginx:1.25
       resources:
         limits:
           memory: "64Mi"
